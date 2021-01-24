@@ -40,6 +40,7 @@ ________________________________________________________________________________
 
 <br/>
 <br/>
+
 **ACTIVITY 0102**:
 
 Some of the things that I find 'usable' and intuitive in an app are:
