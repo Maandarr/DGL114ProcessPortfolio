@@ -36,8 +36,10 @@ The navigation bar scrolls revealing many (22!) options for different categories
 
 <br/>
 <br/>
-________________________________________________________
+________________________________________________________________________________________________________________________________________
 
+<br/>
+<br/>
 **ACTIVITY 0102**:
 
 Some of the things that I find 'usable' and intuitive in an app are:
