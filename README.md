@@ -62,3 +62,54 @@ Some of the things that I find 'usable' and intuitive in an app are:
 - On buy and sell or marketplace posts, having the message button visible on the post to contact the seller with one tap
 - The coveted dark mode.
 - Allowing users to search near their location
+
+
+<br/>
+<br/>
+
+________________________________________________________________________________________________________________________
+
+<br/>
+<br/>
+
+### Week 2
+
+**ACTIVITY 0201**
+
+Features and permissions of Instagram:
+
+**Permissions**:
+
+#### Allowed: 
+- Camera - Only when in use
+- Contacts
+- Files and media - All files
+- Location - Only when in use
+- Microphone - Only when in use
+
+#### Denied:
+- Phone
+
+**Features**:
+
+- Microphone
+- Camera
+- Location
+- Portrait
+- Touch screen + multitouch
+- Wifi
+- Session Initiation Protocol
+- Web view
+- Input methods
+- Managed Users
+- Securely Removes Users
+
+<br/>
+<br/>
+________________________________________________________________________________________________________________________
+
+<br/>
+<br/>
+
+**ACTIVITY 0202**
+
