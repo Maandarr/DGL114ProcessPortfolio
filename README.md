@@ -19,6 +19,9 @@ A negative I could write about Spotify is that it can be hard for a user to find
 <img src="queue.jpg" width="250"><img src="audioTimer.jpg" width="250">
 
 
+<br/>
+<br/>
+
 **The 'Poor'**:
 
 The app I've chosen to write about for the 'poor' interface is Daily Mail Online. The general interface of the app is tightly packed together with a lot of ads but there are display settings that allow you to change the colour theme, line spacing, and article text size to adjust to optimize readability. Dark mode has off-white text that's easy on the eyes and makes the tightly packed layout not so harsh to look at while reading the articles.
@@ -31,6 +34,9 @@ The navigation bar scrolls revealing many (22!) options for different categories
 <img src="picturesDM.jpg" width="250"><img src="adDM.jpg" width="250">
 <img src="listDM.jpg" width="250"><img src="articleDM.jpg" width="250">
 
+<br/>
+<br/>
+________________________________________________________
 
 **ACTIVITY 0102**:
 
