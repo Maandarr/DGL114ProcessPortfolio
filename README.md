@@ -12,25 +12,17 @@ An app whose interface that I consider 'good' is Spotify. I've been using the se
 
 A negative I could write about Spotify is that it can be hard for a user to find the song queue. In my experience, when a Spotify account is used and shared at work, employees will add songs, playlists, or albums to the queue. It's not outright apparent that an album or playlist was added to a queue from another employees perspective so if they want to play something else, the playlist jumps back to the queue right after the different song was played. This is when you realize the issue and have a hard time finding the queue to remove the other songs. It's only in the currently playing page at the bottom right below the stop/skip/play bar. It's not apparent what the icon is either; three parallel lines with a tiny play symbol on the top line.
 
-![Spotify main](mainPage.jpg)
+<img src="mainPage.jpg" width="250">
+<img src="searchContent.jpg" width="250">
+<img src="albums.jpg" width="250">
+<img src="currentlyPlaying.jpg" width="250">
+<img src="songDetails.jpg" width="250">
+<img src="songRadio.jpg" width="250">
+<img src="artistPage.jpg" width="250">
+<img src="share.jpg" width="250">
+<img src="queue.jpg" width="250">
+<img src="audioTimer.jpg" width="250">
 
-![Spotify search](searchContent.jpg)
-
-![Spotify album list](albums.jpg)
-
-![Spotify currently playing](currentlyPlaying.jpg)
-
-![Spotify song deets](songDetails.jpg)
-
-![Spotify song radio](songRadio.jpg)
-
-![Spotify artist page](artistPage.jpg)
-
-![Spotify share](share.jpg)
-
-![Spotify queue](queue.jpg)
-
-![Spotify audio timer](audioTimer.jpg)
 
 **The 'Poor'**:
 
@@ -40,17 +32,13 @@ There are a lot of ads in this app. There's ads in the headers, article lists, a
 
 The navigation bar scrolls revealing many (22!) options for different categories of news to view.
 
-![Daily Mail home page](homeDM.jpg)
+<img src="homeDM.jpg" width="250">
+<img src="inArticleAdDM.jpg" width="250">
+<img src="picturesDM.jpg" width="250">
+<img src="adDM.jpg" width="250">
+<img src="listDM.jpg" width="250">
+<img src="articleDM.jpg" width="250">
 
-![Daily Mail article ad](inArticleAdDM.jpg)
-
-![Daily Mail article images](picturesDM.jpg)
-
-![Daily Mail ad](adDM.jpg)
-
-![Daily Mail list](listDM.jpg)
-
-![Daily Mail article](articleDM.jpg)
 
 **ACTIVITY 0102**:
 
