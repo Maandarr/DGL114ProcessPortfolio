@@ -113,5 +113,33 @@ ________________________________________________________________________________
 <br/>
 <br/>
 
-**ACTIVITY 0202**
+**ACTIVITY 0202**:
 
+**Identifying elements of the MVC pattern in Twitter feed:**
+
+#### Model:
+
+- Stories FAB and user icons contain profile image data
+- Tweets contain image data, link address, profile name, time posted, tweet text, number of likes, number of retweets, number of comments.
+- Top navigation bar contains favicon data, top-of-page data, settings data.
+- Bottom navigation bar contains home page data, search page data, notification page data, message data.
+
+#### Controller:
+
+- Stories FAB allows user to post image story.
+- Comment button in tweets allow user to add comments - updates how many comments with live counter.
+- Retweet button allows user to repost a tweet - updates how many retweets with live counter.
+- Like button allows user to add a like to a tweet - updates how many likes with live counter.
+- Post FAB allows user to make a new post.
+- Personal tweets contain button to allow you to see the metadata of your tweet with live updates.
+- Share button allows user to share tweet to other apps.
+
+#### View:
+
+- Top navigation bar contains favicon, top-of-page icon, settings icon.
+- Stories bar contains profile images.
+- New content button informs of new posts and brings you back to top of the page.
+- Tweets contain profile image, time posted, comment icon, retweet icon, like icon, share icon, options icon, users text, images, or shows link previews.
+- Bottom navigation bar contains home page icon, search page icon, notifications icon, messages icon.
+- Background colour.
+- FAB tween icon.
