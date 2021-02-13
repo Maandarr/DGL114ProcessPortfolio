@@ -157,7 +157,7 @@ ________________________________________________________________________________
 
 **Activity 0301**:
 
-I'm going to use Instagram to identify all the activities used in the app. My count may be off due to a few redundancies but I counted 142 different activities. I had no idea there were that many.
+I'm going to use Instagram to identify all the activities used in the app.
 
 ***Activities***:
 
@@ -176,31 +176,20 @@ I'm going to use Instagram to identify all the activities used in the app. My co
 
     * Messages
         * Chats
-        * Active
-        * Rooms
-        * Requests
         * Camera
         * Video chat
         * New message
         * Search for user to message
     
     * Search screen 
-        * Top results screen
-        * Account results
-        * Tags results
-        * Places results
         * QR code scanner
-        * QR code camera screen
         
     * Reels screen
         * Watch Reels
         * Comments
         * Likes
         * Create Reels post
-        * Record screen
         * Choose video from library
-        * Green screen option? I haven't figured out how it works.
-        * Search music to add to video
 
     * Shop screen
         * Search screen
@@ -213,9 +202,6 @@ I'm going to use Instagram to identify all the activities used in the app. My co
         * Posts
         * Post comments
         * Likes
-        * Tagged phots
-        * Reels
-        * IGTV
         * Edit profile
         * Choose new profile picture from gallery or new from camera
         * Stories
@@ -311,6 +297,44 @@ I'm going to use Instagram to identify all the activities used in the app. My co
             * Theme
             * Accounts center
 
+
+
+<br/>
+<br/>
+
+***
+
+<br/>
+<br/>
+
+**Activity 0302**:
+
+Some common Android event types in Instagram are:
+
+* onLongClick - An instance of this are: 
+    * Long pressing an image in the search screen, it enlarges the view the post to a viewable size.
+    * Long press on story bubbles brings up modal options to view profile or mute user.
+    * Long pressing on messages brings up options menu with delete or mute options.
+    * Long press in stories to pause videos.
+* onTouch - A few instances of this are:
+    * Swiping left or right will open the post creation tool or messages.
+    * Swiping up and down will scroll the page accordingly.
+* onDoubleTap 
+    * Double tap to "like" posts or comemnts.
+    * Double tap the screen when in camera mode to flip the camera - main or selfie.
+
+
+<br/>
+<br/>
+
+***
+
+<br/>
+<br/>
+
+### Week 4
+
+**Activity 0401**:
 
 
 
