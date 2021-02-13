@@ -143,3 +143,174 @@ ________________________________________________________________________________
 - Bottom navigation bar contains home page icon, search page icon, notifications icon, messages icon.
 - Background colour.
 - FAB tween icon.
+
+
+<br/>
+<br/>
+
+________________________________________________________________________________________________________________________
+
+<br/>
+<br/>
+
+### Week 3
+
+**Activity 0301**:
+
+I'm going to use Instagram to identify all the activities used in the app. My count may be off due to a few redundancies but I counted 142 different activities. I had no idea there were that many.
+
+***Activities***:
+
+* Home screen
+
+    * Stories
+        * Create new
+        * Camera settings
+        * See who's viewed your story
+        * Story settings
+
+    * New post screen
+        * Edit post
+        * Filters
+        * Captions/tag screen
+
+    * Messages
+        * Chats
+        * Active
+        * Rooms
+        * Requests
+        * Camera
+        * Video chat
+        * New message
+        * Search for user to message
+    
+    * Search screen 
+        * Top results screen
+        * Account results
+        * Tags results
+        * Places results
+        * QR code scanner
+        * QR code camera screen
+        
+    * Reels screen
+        * Watch Reels
+        * Comments
+        * Likes
+        * Create Reels post
+        * Record screen
+        * Choose video from library
+        * Green screen option? I haven't figured out how it works.
+        * Search music to add to video
+
+    * Shop screen
+        * Search screen
+        * Wishlist
+        * Product page
+        * See more from seller
+        * See all page
+
+    * Profile page
+        * Posts
+        * Post comments
+        * Likes
+        * Tagged phots
+        * Reels
+        * IGTV
+        * Edit profile
+        * Choose new profile picture from gallery or new from camera
+        * Stories
+        * Followers
+        * Following
+        * Create new post
+        * Settings
+            * Archive
+            * Highlights
+            * Calendar
+            * Location
+            * Create highlight
+            * Settings
+            * Your activity
+            * Time on Instagram
+            * Notifications
+                * Posts, stories, and comments
+                * Following and followers
+                * Messages
+                * Live and IGTV
+                * From Instagram
+                * Email and SMS
+            * Saved posts
+            * Close friends
+            * Discover people
+            * Follow and invite friends
+            * Privacy
+                * Comments
+                    * Block comments from
+                * Tags
+                    * Manually approve tags
+                    * Pending tags
+                * Mentions
+                * Story
+                    * Hide story from
+                * Guides
+                * Activity status
+                * Messages
+                    * Your followers on IG
+                    * Friends or people you've chatted with
+                    * Friends of friends
+                    * People with your phone number
+                    * Others on Facebook
+                    * Others on IG
+                    * Who can add you to groups
+                    * Who can message you opens web view
+                * Restricted accounts
+                * Blocked accounts
+                * Muted accounts
+                * Accounts you follow
+            * Security
+                * Password
+                * Login activity
+                * Saved login info
+                * Two-factor authentication
+                * Emails from IG
+                * Access data
+                * Download data
+                * Apps and websites
+                * Search history
+            * Ads
+                * Ad preference
+                * Ad topics
+                * Data about your activity from partners
+                * Ad activity
+                * About ads
+            * Account
+                * Personal info
+                * Your activity
+                * Saved
+                * Close friends
+                * Language
+                * Captions
+                * Browser settings
+                * Contacts syncing
+                * Sharing to other apps
+                * Cell data use
+                * Original posts
+                * Request verification
+                * Posts you've liked 
+                * Branded content tools
+                * Switch to personal/business account
+                * Add new professional account
+            * Help
+                * Report a problem
+                * Help center
+                * Support requests
+                * Privacy and security help
+            * About
+                * Data policy
+                * Terms of use
+                * Open source libraries
+            * Theme
+            * Accounts center
+
+
+
+
