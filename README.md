@@ -312,13 +312,15 @@ I'm going to use Instagram to identify all the activities used in the app.
 Some common Android event types in Instagram are:
 
 * onLongClick - An instance of this are: 
-    * Long pressing an image in the search screen, it enlarges the view the post to a viewable size.
+    * Long pressing an image in the search screen enlarges the post to a viewable size.
     * Long press on story bubbles brings up modal options to view profile or mute user.
     * Long pressing on messages brings up options menu with delete or mute options.
     * Long press in stories to pause videos.
+
 * onTouch - A few instances of this are:
     * Swiping left or right will open the post creation tool or messages.
     * Swiping up and down will scroll the page accordingly.
+    
 * onDoubleTap 
     * Double tap to "like" posts or comemnts.
     * Double tap the screen when in camera mode to flip the camera - main or selfie.
