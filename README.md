@@ -338,5 +338,58 @@ Some common Android event types in Instagram are:
 
 **Activity 0401**:
 
+The app I'm going to examine is Wealthsimple. The navigational model is hierarchical starting with the main portfolio home page.
+
+* Main portfolio
+    * Stock pages
+        * Buy/Sell
+        * Category likenesses
+    * Available to trade - deposit
+    * Learn more page
+    * Earn cash and invite friends page
+    * Search page
+        * Top stocks
+        * Featured
+        * Categories
+    * Account details
+        * Account activity
+        * Funding
+            * Add funds
+            * Transfer funds
+            * Withdraw
+            * Transfer an account
+            * Transfer from Wealthsimple invest
+            * Manage bank accounts
+        * Explore Wealthsimple
+
+    
+
+<br/>
+<br/>
+
+***
+
+<br/>
+<br/>
+
+**Activity 0402**:
 
 
+
+
+<br/>
+<br/>
+
+***
+
+<br/>
+<br/>
+
+
+### Week 5
+
+**Activity 0501**:
+
+The app I've chosen to draw a navigational diagram of is Wealthsimple.
+
+<img src="WealthsimpleDiagram.jpg" width="500px">
