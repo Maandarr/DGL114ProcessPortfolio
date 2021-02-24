@@ -440,3 +440,34 @@ The app that I'm going to examine to characterize all possible uses of implicit 
 The app I've chosen to draw a navigational diagram of is Wealthsimple.
 
 <img src="WealthsimpleDiagram.jpg" width="700px">
+
+
+<br/>
+<br/>
+
+***
+
+<br/>
+<br/>
+
+**Activity 0502**:
+
+The app I'm going to examine to list all touch events and gestures is Wealthsimple. 
+
+* Gestures
+    * Long press
+        * On graphs to see totals and dates
+    * Tap
+        * Buttons, menus, icons
+    * Drag
+        * On graphs to see totals and dates
+    * Fling
+        * Fling screen down while scrolling
+    * Scroll
+        * Scrolling screens
+* Touch events
+    * ACTION_UP
+    * ACTION_DOWN
+    * ACTION_MOVE
+    * ACTION CANCEL
+    
