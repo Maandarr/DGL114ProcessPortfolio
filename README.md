@@ -374,6 +374,53 @@ The app I'm going to examine is Wealthsimple. The navigational model is hierarch
 
 **Activity 0402**:
 
+The app that I'm going to examine to characterize all possible uses of implicit intents is Twitter.
+
+* ACTION_EDIT
+    * Writing a tweet
+    * Editing profile
+    * Editing Fleet posts
+* ACTION_GET_CONTENT
+    * Expanding details of tweets
+    * Clicking on media content
+    * Adding media to tweet from camera roll
+    * Bringing up camera roll in Fleet
+* ACTION_SEND
+    * Sharing tweets
+        * Bookmark
+        * Direct message
+        * Share in Fleet
+        * Text message
+        * Copy link
+        * Share via
+            * Copy
+            * Nearby
+            * Instagram direct messages
+            * Facebook news feed
+            * FB messenger
+            * Twitter direct message
+            * Bluetooth, Save to Google Drive, Discord, Add to Dropbox, Fleet, Tweet, Imgur Chat, Post on Reddit, Open in LastPass, LinkedIn private message, LinkedIn share in post, OneNote, Notes, Snapchat, Canon Print, Strava
+        * Gmail
+        * Slack
+* ACTION_SEARCH
+    * Search page
+* ACTION_LONG_PRESS
+    * Long press on search bar prompts copy and paste pop up
+    * Long press on Fleet brings up mute or view profile menu
+    * Long press on chat message brings up options menu
+    * Long press on chat message brings up copy text or delete menu
+* ACTION_SENDTO
+    * Send private messages
+    * Send tweets 
+    * Send likes
+* ACTION_VIEW
+    * View post tweet 
+    * View how many people liked tweet
+    * View how many retweets
+    * View comments
+    * View new screen
+* CATEGORY_ACCESSIBILITY_SHORTCUT_TARGET
+    * Accessibility functions
 
 
 
@@ -392,4 +439,4 @@ The app I'm going to examine is Wealthsimple. The navigational model is hierarch
 
 The app I've chosen to draw a navigational diagram of is Wealthsimple.
 
-<img src="WealthsimpleDiagram.jpg" width="500px">
+<img src="WealthsimpleDiagram.jpg" width="700px">
