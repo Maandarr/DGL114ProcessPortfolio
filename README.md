@@ -471,3 +471,42 @@ The app I'm going to examine to list all touch events and gestures is Wealthsimp
     * ACTION_MOVE
     * ACTION CANCEL
     
+
+
+<br/>
+<br/>
+
+***
+
+<br/>
+<br/>
+
+
+### Week 8
+
+**Activity 0801**:
+
+The app that I'm going to examine to characterize the app's data storage is Instagram.
+
+* Shared preferences
+    * Notification settings
+* App-specific files
+    * APK, app cache files
+* Shared storage
+    * Posting news feed posts to other accounts
+* Database
+    * Account details, log-in info, post data, comments, etc.
+* Cloud
+    * Private, public, business profiles
+
+
+<br/>
+<br/>
+
+***
+
+<br/>
+<br/>
+
+**Activity 0802**:
+
