@@ -609,8 +609,6 @@ Some important practices and considerations about notifications are:
 
 **Activity 1101**:
 
-Chapter 9 presents a variety of animation types for various purposes. Use a table on your process portfolio to enumerate all animation types presented and to briefly describe each.
-
 Types of Animations | Description
 ----- | -----
 Frame by Frame | A series of images in quick succession
