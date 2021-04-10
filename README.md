@@ -508,5 +508,130 @@ The app that I'm going to examine to characterize the app's data storage is Inst
 <br/>
 <br/>
 
-**Activity 0802**:
+**Activity 0803**:
 
+I don't believe that ToDoList meets the expectations of Material.io.
+
+* The text input doesn't have a sufficient margin spacing on top of the list text. 
+* The list items don't have enough spacing to differentiate one item from another despite being numbered. 
+* The numbers don't create a visual hierarchy. They should at least be boldened. 
+* The text input and add button could just be a FAB instead to allow the list to have more room to be read on the page. 
+* You should be able to clear one item at a time instead of the whole list at once. What good is a list if you can't check things off? Each list item could have a check button on the right to choose which to clear.
+* If we're adding check buttons for list clearing, then we'll probably want to add dividers between the items to create separation.
+
+<br/>
+<br/>
+
+***
+
+<br/>
+<br/>
+
+### Week 9
+
+**Activity 0902**:
+
+A Fragment represents a reusable portion of an app's UI, manages its own layout, handles its own input events, and has its own lifecycle. Fragments must be hosted by an activity or another Fragment and cannot be implemented by themselves. 
+
+Fragments allow for modularity and reusability by dividing your UI into discrete chunks. This makes it easier to modify the activity's appearance at runtime. 
+
+Creating a Fragment takes some modifications to the build gradle. You then create a class and extend the AndroidX Fragment class, override its methods and insert your app's logic. You then need to host the fragment to the Activity you want your fragment to be implemented on.
+
+<br/>
+<br/>
+
+***
+
+<br/>
+<br/>
+
+**Activity 0903**:
+
+The cards in the StudyHelper app could be improved in multiple ways.
+ * There could be larger and consistent margins around the cards to create separation.
+ * The font sizing can be larger to suit the size of the cards and adjust accordingly to account for title length.
+ * When you click on a card, the card could expand overtop of the other cards to reveal the questions/answers. Perhaps all of the questions could be on the same card and you could scroll down to see them all.
+ * Perhaps a complementary or analagous colour scheme with the card backgrounds with less saturation. 
+ * Dividers between the questions/answers to make separation clear.
+ * Could add a nice 1px drop shadow to the cards to create depth.
+ 
+<br/>
+<br/>
+
+***
+
+<br/>
+<br/>
+
+### Week 10
+
+**Activity 1002**:
+
+Some concerns to consider when implementing notifications an an app are:
+* Too many notifications during the day, like reminders, or unecessary notifications, or when an app like facebook decides you need to know when a friend makes a post.
+* Make sure not to put personal information in the notification.
+* Make sure that when tapping on the notification it takes you to the appropriate activity inside your app.
+* Enabling a larger text area so you can view the content of a message or email when tapping on the notification. Super great if you don't want to leave messages left on read.
+* Make sure to update an existing notification instead of issuing new ones.
+* Consider multiple channels for notifications if appropriate.
+
+<br/>
+<br/>
+
+***
+
+<br/>
+<br/>
+
+**Activity 1003**:
+
+Some important practices and considerations about notifications are:
+
+* Not using notifications as a primary communication channel.
+* Making sure to provide an action to stop a service if they don't want it running. 
+* Making sure not to display more than three actions in the expanded notification.
+* Making sure to include the app icon and the app name. Headers and timestamps are optional.
+* Make sure to always include a content title and supporting information in the content area. A large icon containing an avatar is optional.
+* When a user taps in a notification, it should take the user directly to that activity.
+* Make sure to summarize and group multiple notifications.
+* Do not display redundant actions like 'view comment' when tapping on the notification takes you to that activity anyway.
+* Enable typing into notifications to reply to messages or texts.
+
+<br/>
+<br/>
+
+***
+
+<br/>
+<br/>
+
+### Week 11
+
+**Activity 1101**:
+
+Chapter 9 presents a variety of animation types for various purposes. Use a table on your process portfolio to enumerate all animation types presented and to briefly describe each.
+
+Types of Animations | Description
+----- | -----
+Frame by Frame | A series of images in quick succession
+Tween Animation | Performs a series of transformations on an object so the object appears to be moving
+Animation drawable | Produces frame-by-frame animations using the AnimationsDrawable class
+View Animations | A tween animation on a View object using classes in the android.view.animation package
+Property animations and time interpolators | Changes a property of an object over a fixed length of time using classes in the android.animation package. Can animate any object property. Uses a time interpolator that defines how the animation changes over time
+ValueAnimator | A class that creates a property animation by calculating values from a starting value to an ending value over a specified duration
+ObjectAnimator | A subclass of ValueAnimator that allows object properties to be animated without an AnimatorUpdateListener. Can animate a View
+AnimatorSet | Plays multiple animations simultaneously, sequentially, or after a delay
+
+<br/>
+<br/>
+
+***
+
+<br/>
+<br/>
+
+**Activity 1103**:
+
+I've learned that motion should be kept informative, focused, and expressive. It is used to form relationships between elements, focuses attention on what is important, and adds character and expressions where words would clutter in their place. 
+
+Motion communicates to the user what can be done in an app, the next steps you should take, emphasizes the important bits, provides feedback, educates the user on how to perform actions. It can add enjoyment while using the app, expresses what the brand is about, reinforces the brand's style, and overall just add to a smooth experience. 
